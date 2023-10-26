@@ -22,12 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![]()
+![Screenshot of the product card](https://github.com/Elrey009/Product--preview--card--component/blob/main/images/Screenshot%202023-10-26%20at%2007-19-11%20Frontend%20Mentor%20Product%20preview%20card%20component.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Elrey009/Product--preview--card--component)
+- Live Site URL: [Add live site URL here](https://product-preview-card-component-teal-delta.vercel.app/)
 
 ### Built with
 
@@ -55,10 +55,10 @@ To see how you can add code snippets, see below:
 ## Author
 
 - Website - [Daniel Ejike](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Elrey009](https://www.frontendmentor.io/solutions/responsive-product-preview-card-UKzo-kdMl5)
+- Twitter - [@da_ni_lo009](https://twitter.com/da_ni_lo009)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
 
 ## Acknowledgments
 
